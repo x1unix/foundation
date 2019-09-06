@@ -1,0 +1,4 @@
+github.com/ContinuumLLC/platform-api-model v0.0.0-20190906105413-1a0fa5d5acef h1:gxnFVVx6KiKDxn3zzwzxnR1Zm6ZwXRu/XrCTpTxztzU=
+github.com/ContinuumLLC/platform-api-model v0.0.0-20190906105413-1a0fa5d5acef/go.mod h1:FszSQIPtH9170Exg6UkMbVAU/xTCCEyP+H0nQsmnQEA=
+github.com/ContinuumLLC/platform-vmware-plugin v0.0.0-20190906100838-af4f9e376da6 h1:ve4mAlVwHffWaAYYatnbCZUxLDjxsK/fC8AVr9xsDUQ=
+github.com/ContinuumLLC/platform-vmware-plugin v0.0.0-20190906100838-af4f9e376da6/go.mod h1:y+7vkeOm/TNVpZ1cL1+OguiGzokUd1mwKKyecMloNaw=
