@@ -5,3 +5,4 @@ This package contains useful functions and data structures that might be useful 
 ## Index
 
 * `datetime`
+* `app`
